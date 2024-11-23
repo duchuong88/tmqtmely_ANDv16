@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "255580910985",
+    "firebase_url": "https://tmqt-mely-default-rtdb.firebaseio.com",
+    "project_id": "tmqt-mely",
+    "storage_bucket": "tmqt-mely.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255580910985:android:c730212e345372f8265d58",
+        "android_client_info": {
+          "package_name": "thammyquoctemely.ezspa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_roq9UOz-bXEPFpFXRu_5LA_rBcInV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
